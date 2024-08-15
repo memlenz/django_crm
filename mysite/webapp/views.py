@@ -92,7 +92,6 @@ def update_record(request, pk):
 @login_required(login_url='login/')
 def view_record(request, pk):
     record=Record.objects.get(id=pk)
-    messages.success(request, "Your record is delated successfully!")
     return render(request, 'webapp/view-record.html', {'record':record})
 
 
