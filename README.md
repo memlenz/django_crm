@@ -1,5 +1,4 @@
 # django_crm
-Voici la traduction en anglais du README pour votre projet Django :
 
 ---
 
