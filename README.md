@@ -18,7 +18,7 @@ This project is a web application for client management built with Django. The a
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/memlens/django_crm.git
-   cd project-name
+   cd django_crm
    ```
 
 2. **Create a virtual environment**:
@@ -83,5 +83,3 @@ Contributions are welcome! Please create a new branch for any changes and submit
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-N'oubliez pas de mettre à jour les informations spécifiques avant de publier sur GitHub !
